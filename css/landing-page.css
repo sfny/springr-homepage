@@ -41,7 +41,7 @@ h6 {
 .intro-message {
     position: relative;
     padding-top: 20%;
-    padding-bottom: 20%;
+    padding-bottom: 15%;
 }
 
 .intro-message > h1 {
@@ -85,6 +85,7 @@ h6 {
 }
 
 #appscreen {
+  padding-top: 20%;
   max-height: 400px;
   display: inline-block;
 }
