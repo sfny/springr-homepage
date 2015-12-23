@@ -123,7 +123,7 @@ h6 {
 
 .hr {
   text-align: center;
-  width: 400px;
+  width: 800px;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0,0,0,0.2);
 }
@@ -132,22 +132,24 @@ h6 {
   text-align: center;
 }
 #donimage {
-  max-height: 200px;
+  display: block;
+  width: 200px;
 }
 #jennyimage {
-  max-height: 200px;
+  display: block;
+  width: 200px;
 }
 #jacobimage {
-  max-height: 200px;
+  width: 200px;
+  display: block;
 }
 .section-heading {
     margin-bottom: 30px;
 }
 
 .section-heading-spacer {
-    float: left;
     width: 200px;
-    border-top: 3px solid #e7e7e7;
+    border-top: 1px solid #e7e7e7;
 }
 
 .banner {
