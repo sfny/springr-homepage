@@ -123,15 +123,22 @@ h6 {
 
 .hr {
   text-align: center;
-  border-top: 1px solid #3F4C66;
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
 .founder {
   text-align: center;
 }
-.founder.image {
-  max-height: 300px;
+#donimage {
+  max-height: 200px;
+}
+#jennyimage {
+  max-height: 200px;
+}
+#jacobimage {
+  max-height: 200px;
 }
 .section-heading {
     margin-bottom: 30px;
