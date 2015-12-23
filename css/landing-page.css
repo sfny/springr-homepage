@@ -85,7 +85,8 @@ h6 {
 }
 
 #appscreen {
-  max-height: 500px;
+  max-height: 400px;
+  display: inline-block;
 }
 
 .network-name {
@@ -125,7 +126,7 @@ h6 {
 }
 
 .banner {
-    /* padding: 100px 0; */
+    padding: 100px 0;
     color: #f8f8f8;
     background: url(../img/coast-bg.jpg) no-repeat center center;
     background-size: cover;
