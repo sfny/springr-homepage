@@ -1338,11 +1338,11 @@ mark,
   color: #777;
 }
 .text-primary {
-  color: #337ab7;
+  color: #333333;
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #286090;
+  color: #9999CC;
 }
 .text-success {
   color: #3c763d;
