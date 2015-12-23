@@ -85,7 +85,8 @@ h6 {
 }
 
 #appscreen {
-  padding-top: 20%;
+  padding-top: 10%;
+  max-height: 500px;
   display: inline-block;
 }
 
@@ -98,18 +99,19 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #9da9e5;
 }
 
 .content-section-b {
     padding: 50px 0;
+    background-color: #8ED77F;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
 
 .content-section-c {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #8EC7E1;
 }
 
 .founder {
