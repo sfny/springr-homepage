@@ -84,6 +84,10 @@ h6 {
     }
 }
 
+.form {
+  padding-bottom: 20%;
+}
+
 #appscreen {
   padding-top: 10%;
   max-height: 500px;
@@ -114,8 +118,16 @@ h6 {
     background-color: #8EC7E1;
 }
 
+.hr {
+  align-self: center;
+  border-top: 1px solid #3F4C66
+}
+
 .founder {
   text-align: center;
+}
+.founder.image {
+  max-height: 300px;
 }
 .section-heading {
     margin-bottom: 30px;
