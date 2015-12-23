@@ -133,14 +133,14 @@ h6 {
 }
 #donimage {
   display: block;
-  width: 200px;
+  max-width: 70%;
 }
 #jennyimage {
   display: block;
-  width: 200px;
+  max-width: 70%;
 }
 #jacobimage {
-  width: 200px;
+  max-width: 70%;
   display: block;
 }
 .section-heading {
