@@ -134,14 +134,17 @@ h6 {
 #donimage {
   display: block;
   max-width: 70%;
+  margin: auto;
 }
 #jennyimage {
   display: block;
   max-width: 70%;
+  margin: auto;
 }
 #jacobimage {
   max-width: 70%;
   display: block;
+  margin: auto;
 }
 .section-heading {
     margin-bottom: 30px;
