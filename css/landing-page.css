@@ -210,6 +210,10 @@ footer {
     color: #3F4C66;
 }
 
+footer > li > a {
+  color: #7C4F85;
+}
+
 p.copyright {
     margin: 15px 0 0;
 }
